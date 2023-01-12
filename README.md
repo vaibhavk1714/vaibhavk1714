@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Vaibhav Kanthi</h1>
 <h3 align="center">A web development enthusiast from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media">
+<img align="right" alt="Coding" width="400" src="http://www.wouterbongaerts.com/gif">
 <p align="left"> <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w" alt="vaibhavk1714" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
