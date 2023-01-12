@@ -1,4 +1,6 @@
-[![MasterHead(https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png)](https://vaibhavkanthi.io)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Vaibhav Kanthi</h1>
 <h3 align="center">A web development enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media">
