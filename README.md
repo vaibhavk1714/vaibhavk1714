@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Vaibhav Kanthi</h1>
 <h3 align="center">A web development enthusiast from India.</h3>
-<div class="tenor-gif-embed" data-postid="18655255" data-share-method="host" data-aspect-ratio="1.50943" data-width="100%"><a href="https://tenor.com/view/coding-gif-18655255">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+>img src="https://tenor.com/view/coding-gif-18655255" align="right alt="coding-gif" width="400px/>
 
 - 🌱 I’m currently learning **JavaScript**
 
