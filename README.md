@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=vaibhavk17)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Vaibhav Kanthi</h1>
 <h3 align="center">A web development enthusiast from India.</h3>
+![](https://komarev.com/ghpvc/?username=vaibhavk17)
 <img align="right" alt="Coding" width="400" src="http://www.wouterbongaerts.com/gif">
 
 - 🌱 I’m currently learning **JavaScript**
