@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Vaibhav Kanthi</h1>
 <h3 align="center">A web development enthusiast from India.</h3>
-<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="right alt="coding-gif" width="400px/>
+<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="right" alt="coding-gif" width="400px"/>
 
 - 🌱 I’m currently learning **JavaScript**
 
