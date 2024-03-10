@@ -6,7 +6,7 @@
 <h3 align="center">A web development enthusiast from India.</h3>
 <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="right" alt="coding-gif" width="400px"/>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **vaibhav.kanthi@gmail.com**
 
